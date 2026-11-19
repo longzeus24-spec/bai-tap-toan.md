@@ -1,5 +1,3 @@
-# BÀI TẬP ĐẠI SỐ TUYẾN TÍNH
-
 ### Bài I. Cho
 $$
 \text{A} = \begin{bmatrix} -1 & 2 \\ 4 & 1 \end{bmatrix} 
@@ -24,14 +22,17 @@ $$
 Kiểm tra xem các phép toán sau có thực hiện được không, nếu có thì cho biết kết quả: $AB$, $A(3B+C)$, $ABC$, $B^T A$, $BC^T$.
 
 ---
-
 ### Bài II. Cho $x = (1, 2, 3)$; $y = (y_1, y_2, y_3)$ và $z = (4, 2, 1)$
 
 $2x$, $-3y$, $x + 2y - z$
 
+---
+
+## <u>LỜI GIẢI CHI TIẾT</u>
+
 **$2x$:**
 
-$$2x = 2 \cdot (1, 2, 3) = (2 \cdot 1, \; 2 \cdot 2, \; 2 \cdot 3)$$
+$$2x = 2 \cdot (1, 2, 3) = (2, 4, 6)$$
 
 $$\Longrightarrow 2x = (2, 4, 6)$$
 

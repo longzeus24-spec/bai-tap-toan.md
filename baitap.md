@@ -2,10 +2,7 @@
 
 ### Bài I. Cho
 $$
-A = \begin{bmatrix} 
--1 & 2 \\ 
-4 & 1 
-\end{bmatrix}; 
+\text{A} = \begin{bmatrix} -1 & 2 \\ 4 & 1 \end{bmatrix} 
 \quad 
 B = \begin{bmatrix} 
 1 & 0 & -2 \\ 
